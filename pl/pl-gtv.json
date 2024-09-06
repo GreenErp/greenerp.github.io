@@ -12,13 +12,6 @@
         "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
         "type": "m3u",
         "censored": false
-      },
-      {
-        "name": "STARSHARE",
-        "url": "http://starshare.live:8080/c/",
-        "type": "por",
-       "mac": "00:1A:79:36:34:66",
-        "censored": false
       }
     ],
     "pl-more": [
@@ -27,27 +20,6 @@
         "url": "http://w4ktvpro.com:8080/c/",
         "type": "por",
         "mac": "00:1A:79:60:3e:54",
-        "censored": false
-      },
-      {
-        "name": "ENT4U-121624",
-        "url": "http://entertainmentj4u.com/stalker_portal/c/",
-        "type": "por",
-        "mac": "00:1A:79:7A:E8:F0",
-        "censored": false
-      },
-      {
-        "name": "ENT4U-100324",
-        "url": "http://entertainmentj4u.com/stalker_portal/c/",
-        "type": "por",
-        "mac": "00:1A:79:B4:F2:58",
-        "censored": false
-      },
-      {
-        "name": "ENT4U_102524",
-        "url": "http://entertainmentj4u.com/stalker_portal/c/",
-        "type": "por",
-        "mac": "00:1A:79:8B:94:20",
         "censored": false
       },
       {
@@ -69,20 +41,6 @@
         "url": "https://dhoom4u.me/stalker_portal/c/",
         "type": "por",
         "mac": "00:1A:79:7B:6E:4D",
-        "censored": false
-      },
-      {
-        "name": "India-list",
-        "url": "http://watchindia.net:8880",
-        "type": "m3u",
-        "username": "69354",
-        "password": "82115",
-        "censored": false
-      },
-      {
-        "name": "TechHelper_list",
-        "url": "https://m3u.work/qUsHqiR0.m3u",
-        "type": "m3u",
         "censored": false
       }
     ]
